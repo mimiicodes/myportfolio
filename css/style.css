@@ -4,7 +4,6 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 
 body{
     background-color: midnightblue;
@@ -99,7 +98,7 @@ input[type="checkbox"]{
     width: 80%;
     margin: auto;
     padding: 65px;
-    font-family: 'Merienda One', cursive;
+    font-family: 'Modak', cursive;
 }
 #intro{
     width: 40%;
@@ -169,6 +168,7 @@ a{
         margin: 0px 0px;
         padding: 0px;
         width: 100%;
+        line-height: 30px;
     }
     #about{
         width: 85%;
