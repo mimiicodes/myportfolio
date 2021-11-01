@@ -1,2 +1,2 @@
 # myportfolio
-https://mirakleddev.github.io/myportfolio/index.html
+https://mimiicodes.github.io/myportfolio/index.html
