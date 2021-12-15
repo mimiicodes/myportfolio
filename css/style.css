@@ -159,6 +159,7 @@ p, b{
 #about-section{
     background: rgba(0, 0, 0, 0.3);
     margin: 80px 50px;
+    padding: 100px;
 }
 #about{
     width: 35%;
@@ -193,6 +194,9 @@ a{
 /* about section ends */
 
 /* skills section */
+#skill-section{
+    padding: 100px;
+}
 #skill-intro{
     width: 40%;
     margin: auto;
